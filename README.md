@@ -1,4 +1,4 @@
-## Bem-vindo ao meu mundo digital! 👩🏻‍💻✨
+<h1><span text_color="color: #8c54b4;">Bem-vindo ao meu mundo digital!</span> 👩🏻‍💻✨</h1>
 
 Atualmente, trabalho como **Suporte Técnico**. Sou formada em **Técnico de Informática** e atualmente estou cursando **Análise e Desenvolvimento de Sistemas**.
 
