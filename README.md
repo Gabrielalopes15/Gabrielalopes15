@@ -1,9 +1,3 @@
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu Portfólio</title>
-</head>
 <body>
     <h1><span style="color: #8c54b4;">Bem-vindo ao meu mundo digital!</span> 👩🏻‍💻✨</h1>
     <p>Atualmente, trabalho como <span style="color: #a7db4b;">Suporte Técnico</span>. Sou formada em <span style="color: #8c54b4;">Técnico de Informática</span> e atualmente estou cursando <span style="color: #8c54b4;">Análise e Desenvolvimento de Sistemas</span>.</p>
