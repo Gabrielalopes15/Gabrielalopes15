@@ -24,4 +24,7 @@ Estou no início da construção do meu portfólio de ideias e programações, s
 
 
 ##
-![Grafico](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)
+![Grafico](https://github-readme-stats.vercel.app/api?username={Gabrielalopes15}&theme=blue-green)
+
+
+
