@@ -26,7 +26,7 @@ Habilidades :
 ##
 ![Gabrielalopes15 Github stats](https://github-readme-stats.vercel.app/api?username=Gabrielalopes15&show_icons=true&theme=ocean_dark )
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielalopes15&show_icons=true&theme=ocean_dark  )
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielalopes15&theme=ocean_dark  )
 
 
 
