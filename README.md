@@ -7,13 +7,15 @@ Atualmente, trabalho como Suporte Técnico, onde lido com:
 
 Estou no início da construção do meu portfólio de ideias e programações, sempre em busca de aprender e evoluir. Este espaço é dedicado aos meus projetos e ideias inovadoras que venho desenvolvendo ao longo do tempo.
 
-*Habilidades :* 
+*Habilidades :*
+<div style="display: inline_block"> <br/>
+
  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
+</div> 
 
 
 ## Contatos 📞
@@ -24,7 +26,9 @@ Estou no início da construção do meu portfólio de ideias e programações, s
 
 
 ##
-![Grafico](https://github-readme-stats.vercel.app/api?username={Gabrielalopes15}&theme=blue-green)
+![Gabrielalopes15 Github stats](https://github-readme-stats.vercel.app/api?username=Gabrielalopes15&show_icons=true&theme=onedark)
+
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielalopes15&show_icons=true&theme=onedark)
 
 
 
