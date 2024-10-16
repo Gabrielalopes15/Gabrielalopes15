@@ -1,11 +1,14 @@
-## Bem-vindo ao meu mundo digital! 👩🏻‍💻✨
 
-Olá! Meu nome é Gabriela 
-
-Atualmente, trabalho como <span style=“color: #FF5733;”>Suporte Técnico</span>. Sou formada em <span style=“color: #3498DB;”>Técnico de Informática</span> e atualmente estou cursando <span style=“color: #9B59B6;”>Análise e Desenvolvimento de Sistemas</span>.
-
-Estou no início da construção do meu portfólio de <span style=“color: #F1C40F;”>ideias</span> e <span style=“color: #E74C3C;”>programações</span>, sempre em busca de aprender e evoluir. Este espaço é dedicado aos meus projetos e ideias inovadoras que venho desenvolvendo ao longo do tempo.
-
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Portfólio</title>
+</head>
+<body>
+    <h1><span style="color: #8c54b4;">Bem-vindo ao meu mundo digital!</span> 👩🏻‍💻✨</h1>
+    <p>Atualmente, trabalho como <span style="color: #a7db4b;">Suporte Técnico</span>. Sou formada em <span style="color: #8c54b4;">Técnico de Informática</span> e atualmente estou cursando <span style="color: #8c54b4;">Análise e Desenvolvimento de Sistemas</span>.</p>
+    <p>Estou no início da construção do meu portfólio de <span style="color: #a7db4b;">ideias</span> e <span style="color: #8c54b4;">programações</span>, sempre em busca de aprender e evoluir. Este espaço é dedicado aos meus projetos e ideias inovadoras que venho desenvolvendo ao longo do tempo.</p>
+</body>
 
 <div style="display: inline_block"> <br/>
 Habilidades :
@@ -27,9 +30,9 @@ Habilidades :
 
 
 ##
-![Gabrielalopes15 Github stats](https://github-readme-stats.vercel.app/api?username=Gabrielalopes15&show_icons=true&theme=onedark)
+![Gabrielalopes15 Github stats](https://github-readme-stats.vercel.app/api?username=Gabrielalopes15&show_icons=true&theme=ocean_dark )
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielalopes15&show_icons=true&theme=onedark)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielalopes15&show_icons=true&theme=ocean_dark  )
 
 
 
