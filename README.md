@@ -1,8 +1,8 @@
-<body>
-    <h1><span style="color: #8c54b4;">Bem-vindo ao meu mundo digital!</span> 👩🏻‍💻✨</h1>
-    <p>Atualmente, trabalho como <span style="color: #a7db4b;">Suporte Técnico</span>. Sou formada em <span style="color: #8c54b4;">Técnico de Informática</span> e atualmente estou cursando <span style="color: #8c54b4;">Análise e Desenvolvimento de Sistemas</span>.</p>
-    <p>Estou no início da construção do meu portfólio de <span style="color: #a7db4b;">ideias</span> e <span style="color: #8c54b4;">programações</span>, sempre em busca de aprender e evoluir. Este espaço é dedicado aos meus projetos e ideias inovadoras que venho desenvolvendo ao longo do tempo.</p>
-</body>
+## Bem-vindo ao meu mundo digital! 👩🏻‍💻✨
+
+Atualmente, trabalho como **Suporte Técnico**. Sou formada em **Técnico de Informática** e atualmente estou cursando **Análise e Desenvolvimento de Sistemas**.
+
+Estou no início da construção do meu portfólio de **ideias** e **programações**, sempre em busca de aprender e evoluir. Este espaço é dedicado aos meus projetos e ideias inovadoras que venho desenvolvendo ao longo do tempo.
 
 <div style="display: inline_block"> <br/>
 Habilidades :
