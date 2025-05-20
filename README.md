@@ -57,6 +57,11 @@ Habilidades:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabrielalopes15&theme=react-dark" />
 </p>
 
+
+
+![Profile views](https://komarev.com/ghpvc/?username=Gabrielalopes15&color=blue)
+
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Gabrielalopes15&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D" />
 </p>
