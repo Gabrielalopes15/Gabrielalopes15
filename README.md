@@ -1,8 +1,10 @@
 <h1><span style="color: #8c54b4;">Bem-vindo ao meu mundo digital!</span> 👩🏻‍💻✨</h1>
 
-Atualmente, trabalho como **Suporte Técnico**. Sou formada em **Técnico de Informática** e atualmente estou cursando **Análise e Desenvolvimento de Sistemas**.
+Atualmente atuo como *Suporte Técnico*, com formação em Técnico de Informática e cursando *Análise e Desenvolvimento de Sistemas*.
 
-Estou no início da construção do meu portfólio de **ideias** e **programações**, sempre em busca de aprender e evoluir. Este espaço é dedicado aos meus projetos e ideias inovadoras que venho desenvolvendo ao longo do tempo.
+Estou no início da construção do meu portfólio, sempre em constante aprendizado e evolução. Este espaço é dedicado aos meus projetos, ideias e soluções, desenvolvidos ao longo do tempo, com o objetivo de compartilhar conhecimento e contribuir com a comunidade.
+
+Aqui, você encontrará soluções práticas que disponibilizo com carinho, baseadas em desafios reais do dia a dia.
 
 <div style="display: inline_block"><br/>
 Habilidades:
@@ -46,4 +48,20 @@ Habilidades:
 
 ![Gabrielalopes15 Github stats](https://github-readme-stats.vercel.app/api?username=Gabrielalopes15&show_icons=true&theme=ocean_dark](https://github-readme-stats.vercel.app/api?username=Gabrielalopes15&show_icons=true&theme=ocean_dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielalopes15&theme=ocean_dark))
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielalopes15&layout=compact&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielalopes15&theme=ocean_dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielalopes15&theme=ocean_dark))
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielalopes15&show_icons=true&theme=ocean_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielalopes15&layout=compact&theme=ocean_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabrielalopes15&theme=react-dark" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Gabrielalopes15&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D" />
+</p>
