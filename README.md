@@ -46,12 +46,7 @@ Habilidades:
 
 ##
 
-![Gabrielalopes15 Github stats](https://github-readme-stats.vercel.app/api?username=Gabrielalopes15&show_icons=true&theme=ocean_dark](https://github-readme-stats.vercel.app/api?username=Gabrielalopes15&show_icons=true&theme=ocean_dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielalopes15&theme=ocean_dark))
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielalopes15&layout=compact&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielalopes15&theme=ocean_dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielalopes15&theme=ocean_dark))
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielalopes15&show_icons=true&theme=ocean_dark" />
